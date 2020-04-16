@@ -6,6 +6,7 @@ cgi-io - 16
 curl - 7.66.0-1
 dnsmasq - 2.80-15
 dropbear - 2019.78-2
+etherwake - 1.09-4
 ethtool - 5.2-1
 firewall - 2019-11-22-8174814a-1
 fstools - 2020-01-18-189b41b6-1
@@ -56,6 +57,7 @@ kmod-ppp - 4.14.174-1
 kmod-pppoe - 4.14.174-1
 kmod-pppox - 4.14.174-1
 kmod-slhc - 4.14.174-1
+kmod-tcp-bbr - 4.14.174-1
 kmod-usb-core - 4.14.174-1
 kmod-usb-ledtrig-usbport - 4.14.174-1
 kmod-usb3 - 4.14.174-1
@@ -97,6 +99,8 @@ luci-app-firewall - git-20.057.55219-13dd17f-1
 luci-app-mptcp - git-20.101.47438-6c730f1-1
 luci-app-opkg - git-20.057.55219-13dd17f-1
 luci-app-shadowsocks-libev - git-20.057.55219-13dd17f-1
+luci-app-watchcat - git-20.057.55219-13dd17f-1
+luci-app-wol - git-20.057.55219-13dd17f-1
 luci-base - git-20.057.55219-13dd17f-1
 luci-compat - git-20.057.55219-13dd17f-1
 luci-lib-ip - git-20.057.55219-13dd17f-1
@@ -144,5 +148,6 @@ uhttpd - 2020-02-12-2ee323c0-1
 urandom-seed - 1.0-1
 urngd - 2020-01-21-c7f7b6b6-1
 usign - 2019-08-06-5a52b379-1
+watchcat - 1-7
 wireless-regdb - 2019.06.03
 wpad-basic - 2019-08-08-ca8c2bd2-2
